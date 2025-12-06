@@ -24,6 +24,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system for research pape
 
 ### System Components
 
+
 ```
 ┌─────────────────┐
 │   React Web UI  │
